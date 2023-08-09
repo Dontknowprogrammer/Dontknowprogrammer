@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dontknowprogrammer
 - 👀 I’m interested in ...Software Development, System Administrator and Network Administrator
-- 🌱 I’m currently learning .Java and Data Structures..
+- 🌱 I have knowledge of html,css and javascript currently in the process of learning node js and mongodb.
 
 <!---
 Dontknowprogrammer/Dontknowprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
